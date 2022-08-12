@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/tempesttcodes" target="blank"><img src="https://img.shields.io/twitter/follow/tempesttcodes?logo=twitter&style=for-the-badge" alt="tempesttcodes" /></a> </p>
 
-- 🔭 I’m currently working on [PETFINDER](https://github.com/tnwoodard/petfinder)
+- 🔭 I’m currently working on [chat_app](https://github.com/tnwoodard/chat_app)
 
 - 💬 Let's chat about **the most exciting Ruby gems you've used.**
 
