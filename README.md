@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnwoodard" alt="tnwoodard" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tempesttcodes" target="blank"><img src="https://img.shields.io/twitter/follow/tempesttcodes?logo=twitter&style=for-the-badge" alt="tempesttcodes" /></a> </p>
-
 - 🔭 I’m currently working on [chat_app](https://github.com/tnwoodard/chat_app)
 
 - 💬 Let's chat about **the most exciting Ruby gems you've used.**
