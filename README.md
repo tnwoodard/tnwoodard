@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnwoodard" alt="tnwoodard" /></a> </p>
 
-- 🔭 I’m currently working on [chat_app](https://github.com/tnwoodard/chat_app)
+- 🔭 I’m currently working on [chatroom-app](https://github.com/tnwoodard/chatroom-app)
 
 - 💬 Let's chat about **the most exciting Ruby gems you've used.**
 
