@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnwoodard" alt="tnwoodard" /></a> </p>
 
-- 🔭 I’m currently working on [chatroom-app](https://github.com/tnwoodard/chatroom-app)
+- 🔭 I’m currently working on [bloggy-blog](https://github.com/tnwoodard/bloggy-blog)
 
 - 💬 Let's chat about **the most exciting Ruby gems you've used.**
 
 - 📫 How to reach me **tempesttnwoodard@gmail.com**
 
-- ⚡ Fun fact **I like to sing, write, walk everywhere and discuss crypto.**
+- ⚡ Fun fact **I like to code apps in my spare time, write, try new restaurants and discuss crypto.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
