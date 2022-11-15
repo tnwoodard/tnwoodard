@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tnwoodard" alt="tnwoodard" /></a> </p>
 
-- 🔭 I’m currently working on [bloggy-blog](https://github.com/tnwoodard/bloggy-blog)
+- 🔭 I’m currently working on building [my portfolio](https://master.d3vqz3lkq6q15b.amplifyapp.com/) in React JS.
 
 - 💬 Let's chat about **the most exciting Ruby gems you've used.**
 
