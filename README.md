@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **tempesttnwoodard@gmail.com**
 
-- 👀 Want to see my [work] (https://tempesttwoodard.netlify.app/) thus far? 
+- 👀 Want to see my [work](https://tempesttwoodard.netlify.app) thus far? 
 
 - ⚡ Fun fact **I like to code apps in my spare time, write, try new restaurants and discuss crypto.**
 
