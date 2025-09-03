@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Tempestt!
 
-I’m a **Navy veteran turned cybersecurity explorer**, navigating the seas of **IT, web development, and cloud security**. I love **coding**—building things that work, play, and secure the digital world—and I enjoy turning complex technical concepts into **clear, actionable solutions**.
+I’m a **Navy veteran turned cybersecurity explorer**, navigating the seas of **IT, web development, and cloud security**. I love **coding** and building things that work, play, and secure the digital world. I also enjoy turning complex technical concepts into **clear, actionable solutions**.
 
 ---
 
