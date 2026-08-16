@@ -1,47 +1,106 @@
-# Hi there 👋, I’m Tempestt!
+# Hi, I'm Tempestt 👋
 
-I’m a **Navy veteran turned cybersecurity explorer**, navigating the seas of **IT, web development, and cloud security**. I love **coding** and building things that work, play, and secure the digital world. I also enjoy turning complex technical concepts into **clear, actionable solutions**.
+I'm a Navy veteran and cybersecurity professional focused on security operations, cloud security, GRC, and secure software practices.
 
----
+I'm currently completing my M.S. in Cybersecurity and Information Assurance at WGU while building hands-on security projects that translate security concepts into practical implementations.
 
-## 🚀 What I’m up to
-
-- Pursuing my **M.S. in Cybersecurity and Information Assurance at WGU**  
-- Building **hands-on GRC and SOC projects** on Azure  
-- Coding projects in **Python, Ruby, and React**  
-- Designing **secure network topologies** and improving cloud security  
+My background spans IT support, technical instruction, web development, risk and compliance, and cybersecurity, giving me experience approaching security problems from both technical and operational perspectives.
 
 ---
 
-## 💡 Core Strengths
+## 🔐 Current Focus
 
-- **Coding & development:** Python, Ruby, React  
-- **Risk assessments & compliance frameworks:** PCI DSS, NIST SP 800-53, FISMA  
-- **Cloud security:** Azure, RBAC, secure network design  
-- **Problem-solving & remediation planning**
-
----
-
-## 📂 Featured Projects
-
-- **[Azure GRC Simulation Project](https://github.com/tnwoodard/azure-grc-simulation-project)**  
-  Simulated a cloud migration, identified compliance gaps, mapped them to frameworks, and designed a **secure network topology**.  
-  - Includes full report & snapshot case study PDFs  
-
-- **[Other GitHub projects](https://github.com/tnwoodard?tab=repositories)**  
-  Explore my coding experiments, full-stack web projects, and cybersecurity tools.  
+- Security operations and incident triage
+- Microsoft Sentinel and KQL
+- Azure security and cloud governance
+- Detection engineering fundamentals
+- Identity and access management
+- Security risk and compliance
+- Secure software practices
 
 ---
 
-## ✨ Fun Facts
+## 🛠️ Security Technologies
 
-- Navy-tested problem solver ⚓  
-- Passionate about **making tech approachable and actionable**  
-- Always curious, always coding 🌱  
+**SIEM & Security Operations**
+- Microsoft Sentinel
+- Kusto Query Language (KQL)
+- Windows Security Events
+- MITRE ATT&CK
+
+**Cloud & Identity**
+- Microsoft Azure
+- Azure Arc
+- Azure Monitor Agent
+- Log Analytics
+- Azure RBAC
+
+**Security & GRC**
+- NIST SP 800-53
+- FISMA
+- PCI DSS
+- Risk assessment
+- Security control analysis
+- Remediation planning
+
+**Development**
+- Python
+- JavaScript / React
+- Ruby
+- Git / GitHub
 
 ---
 
-## 🔗 Let’s Connect
+## 📂 Featured Cybersecurity Projects
 
-- [💻 Portfolio Projects](https://github.com/tnwoodard?tab=repositories)  
-- [🔗 LinkedIn](https://www.linkedin.com/in/tnwoodard)
+### 🛡️ [Microsoft Sentinel SOC Detection & Incident Response Lab](https://github.com/tnwoodard/Microsoft-Sentinel-SOC-Lab)
+
+Built an end-to-end Microsoft Sentinel SOC workflow using a physical Windows 11 endpoint and Azure.
+
+- Collected Windows Security Event telemetry using Azure Monitor Agent
+- Developed and tested KQL detection logic for failed authentication activity
+- Created a scheduled Sentinel analytics rule with MITRE ATT&CK mapping
+- Configured Host and IP entity mappings
+- Generated and investigated a live Sentinel incident
+- Performed Tier 1 triage, scope assessment, analyst documentation, classification, and closure
+
+### ☁️ [Azure GRC Simulation Project](https://github.com/tnwoodard/azure-grc-simulation-project)
+
+Simulated a cloud security and governance engagement involving security assessment, compliance mapping, and remediation planning.
+
+- Identified cloud security and compliance gaps
+- Mapped findings to security frameworks and controls
+- Developed remediation recommendations
+- Designed a secure network topology
+- Produced a full assessment report and executive case study
+
+---
+
+## 💻 Software & Open-Source Experience
+
+My software development background gives me additional perspective on application security, secure development, and technical troubleshooting.
+
+I've worked with Python, Ruby, JavaScript, React, HTML/CSS, and Git, and have contributed to open-source projects including:
+
+- Wiki Education Foundation
+- Open Life Science
+
+[Explore my repositories](https://github.com/tnwoodard?tab=repositories)
+
+---
+
+## 🎓 Education & Certifications
+
+**M.S. Cybersecurity and Information Assurance**  
+Western Governors University, In Progress
+
+**Certifications**
+- CompTIA CySA+
+- CompTIA PenTest+
+- ISC2 Certified in Cybersecurity (CC)
+
+---
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/tempestt-w) | [GitHub Projects](https://github.com/tnwoodard?tab=repositories)
