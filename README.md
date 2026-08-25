@@ -64,6 +64,17 @@ Built an end-to-end Microsoft Sentinel SOC workflow using a physical Windows 11 
 - Generated and investigated a live Sentinel incident
 - Performed Tier 1 triage, scope assessment, analyst documentation, classification, and closure
 
+### 🔐 [Microsoft Entra ID IAM & Access Governance Lab](https://github.com/tnwoodard/Microsoft-Entra-IAM-Access-Governance-Lab)
+
+Designed and implemented an identity and access governance solution for a simulated payroll environment using Microsoft Entra ID.
+
+- Implemented role-based access control (RBAC) and least-privilege access
+- Configured PIM-based just-in-time privileged access for payroll approvers
+- Enforced separation of duties with independent approval workflows
+- Established primary and backup approvers for business continuity
+- Implemented recurring access reviews to validate continued business need
+- Validated privileged access activity through PIM audit records
+
 ### ☁️ [Azure GRC Simulation Project](https://github.com/tnwoodard/azure-grc-simulation-project)
 
 Simulated a cloud security and governance engagement involving security assessment, compliance mapping, and remediation planning.
